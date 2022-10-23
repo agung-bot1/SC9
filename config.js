@@ -12,8 +12,8 @@ global.APIKeys = {
 }
 
 // NAMBAH BOLEH HAPUS JANGAN -_-
-global.owner = ['6281511480762']
-global.premium = ['621511480762']
+global.owner = ['6285709420641']
+global.premium = ['6285794583615']
 global.packname = 'AzzBot√'
 global.author = 'AzzBot-MD'
 global.sessionName = 'Xavior'
